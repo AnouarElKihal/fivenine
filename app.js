@@ -23,3 +23,5 @@ menu_item.forEach((item) => {
 		mobile_menu.classList.toggle('active');
 	});
 });
+
+// code written by Anouar El Kihal (eabug)
