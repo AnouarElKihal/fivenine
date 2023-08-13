@@ -579,5 +579,3 @@ p {
 .card:hover > .back{
 	transform: perspective(600px) rotateY(0deg);
 }
-
-/* code written by Anouar El Kihal (eabug) */
