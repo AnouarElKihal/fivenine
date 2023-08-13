@@ -63,6 +63,3 @@ figure <- ggarrange(g1, g2,
                     labels = c("A", "B"),
                     ncol = 2, nrow = 1)
 figure
-
-
-# code written by Anouar El Kihal (eabug)
